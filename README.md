@@ -16,37 +16,37 @@ A production-ready Flask application that tracks study habits, wellness metrics,
 ## 📸 Screenshots
 
 ### 1. 🏠 Landing Page
-![Landing Page](screenshots/homepage.png)
+![Landing Page](Screenshots/home.png)
 *Beautiful animated landing page with AI analysis preview*
 
 ---
 
 ### 2. 📊 Dashboard Overview
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](Screenshots/dashboard.png)
 *Comprehensive dashboard with study statistics and quick actions*
 
 ---
 
 ### 3. 📈 Study Session Logging
-![Study Session Form](screenshots/log-study.png)
+![Study Session Form](Screenshots/study.png)
 *Detailed study session tracking with focus ratings and methods*
 
 ---
 
 ### 4. 🧠 AI-Powered Insights
-![AI Insights](screenshots/ai-insights.png)
+![AI Insights](Screenshots/ai_insight.png)
 *Personalized recommendations and pattern analysis from Gemini AI*
 
 ---
 
 ### 5. 🔍 Pattern Analysis
-![Pattern Analysis](screenshots/patterns.png)
+![Pattern Analysis](Screenshots/pattern.png)
 *Automated pattern detection and correlation analysis*
 
 ---
 
 ### 6. 💪 Wellness Tracking
-![Wellness Tracking](screenshots/wellness.png)
+![Wellness Tracking](Screenshots/wellness.png)
 *Comprehensive wellness monitoring with academic performance correlation*
 
 ## Prerequisites
