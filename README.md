@@ -22,7 +22,7 @@ A production-ready Flask application that tracks study habits, wellness metrics,
 ---
 
 ### 2. 📊 Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard.png)
+![Dashboard Overview](Screenshots/dash2.png)
 *Comprehensive dashboard with study statistics and quick actions*
 
 ---
